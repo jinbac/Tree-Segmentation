@@ -1,2 +1,2 @@
 # Tree-Segmentation
-Image Segmentation on trees 
+Semantic Segmentation project for trees 
